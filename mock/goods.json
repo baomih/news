@@ -1,0 +1,21 @@
+{
+    "status": "0",
+    "msg": "",
+    "result": [{
+        "productId": "100001",
+        "productName": "小米六",
+        "productPrice": 2499
+    }, {
+        "productId": "100001",
+        "productName": "小米六",
+        "productPrice": 2499
+    }, {
+        "productId": "100001",
+        "productName": "小米六",
+        "productPrice": 2499
+    }, {
+        "productId": "100001",
+        "productName": "小米六",
+        "productPrice": 2499
+    }]
+}
